@@ -80,7 +80,6 @@
 				36C8ED5E7256FBFD8D9FFE5D /* Pods-BitcoinTicker.debug.xcconfig */,
 				04359AC10AE0024EFEA55816 /* Pods-BitcoinTicker.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -353,7 +352,7 @@
 				INFOPLIST_FILE = BitcoinTicker/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.BitcoinTicker;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kazakovanet.BitcoinTicker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -369,7 +368,7 @@
 				INFOPLIST_FILE = BitcoinTicker/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.BitcoinTicker;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kazakovanet.BitcoinTicker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
